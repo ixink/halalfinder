@@ -89,6 +89,14 @@ while True:
                         print("Please one of them: 1 or 2")
             else:
                 print(f"{food_name} is not slaughtered according to Islamic dietary law (Zabihah). It's Haram")
+                print("Do you like to ask more?\n")
+                choice = int(input("Yes(1)\nNo(2)\n"))
+                if choice == 1:
+                    subprocess.run(["python3", "halalfinder.py"], check=True)
+                elif choice == 2:
+                    print("Thanks for using")
+                else:
+                    print("Please one of them: 1 or 2")
                 
         elif choice == 2:
             food_name = input("Enter the food name: ")
