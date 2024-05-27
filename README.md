@@ -1,4 +1,5 @@
 It's a halal food finder!
+---------------------------
 
 --------
 
@@ -12,28 +13,34 @@ Next Update: Click picture and findout halal or haram food with hadis. In next u
 -------------------------------
 
 Linux Installation:
+----------------------
 
 
-sudo git clone http://github.com/halalfinder.git
+    sudo git clone http://github.com/halalfinder.git
 
 
 ------------------
 
 Run:
+------------
 
 
-cd halalfinder
+    cd halalfinder
 
 
-ls
+    ls
 
 
-python3 finder.py
+    python3 finder.py
+
+or
+
+    python3 halalfinder.py
 
 -----------------------------
-Code by: ixink(Rayhan Ahmed)
-contact me: t.me/ImamSword
-t.me/ixiinkhat
+        Code by: ixink(Rayhan Ahmed)
+        contact me: t.me/ImamSword
+        t.me/ixiinkhat
 
 
 
