@@ -1,4 +1,4 @@
-#بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+print("بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ")
 #In the name of God, the Most Gracious, the Most Merciful.
 
 #Note: Do not copy code without permission ask for permission. I will give you permission without any cost.
@@ -7,11 +7,14 @@
 #Contact me: t.me/ImamSword
 #Hire me: http://linkedin.com/in/rayhan-ahmed-uiu
 #Github: http://github.com/ixink
-print("_   _       _       _           _____ _           _   ")        
-print("| | | |  _| |  _| |         |  ___(_)_    | | ___ _  ")
-print("| |_| |/ _` | |/ _` | |         | |_  | | '_ \ / _` |/ _ \ '|")
-print("|  _  | (_| | | (_| | |         |  _| | | | | | (_| |  / |   ")
-print("|_| |_|\,_|_|\__,_|_|  _____  |_|   |_|_| |_|\__,_|\___|_|")
+print(" _   _       _       _     _____ _           _    ")      
+print("| | | | __ _| | __ _| |   |  ___(_)_ __   __| | ___ _ __")
+print("| |_| |/ _` | |/ _` | |   | |_  | | '_ \ / _` |/ _ \ '__|")
+print("|  _  | (_| | | (_| | |   |  _| | | | | | (_| |  __/ |   ")
+print("|_| |_|\__,_|_|\__,_|_|___|_|   |_|_| |_|\__,_|\___|_|   ")
+print("____________________________ coded by: ixink(Rayhan Ahmed)")
+print("_____________ contact me: linkedin.com/in/rayah-ahmed-uiu")
+print("___________________________________________________________")
 
 # Step 1: Create a database of halal and haram food items
 halal_meat = ["chiken", "beef", "lamb", "goat", "duck", "goose", "cow", "buffalo", "camel", "sheep", "dumba", "deer", "raindeer"]
